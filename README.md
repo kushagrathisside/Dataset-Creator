@@ -1,9 +1,16 @@
 # Dataset-Creator
-Using Streamlit app to create an Image dataset from video feed.
+Application for creating numeric datasets from Images using holistic model of Mediapipe by saving landmark details in records. This WebApp can be used by ml researchers who are working majorly on facial landmarks and want to generate simple csv file directly.
 
 ### Project Information:
-<b>Target Audience:</b> Deep Learning practioners and researchers working with Mediapipe.<br>
-<b>Motive:</b> To improve data preparation process by facilitating users to create numeric records for their image dataset, easing the implementation of machine learning pipelines.
+<b>Target Audience:</b> 
+1. Deep Learning practioners and researchers working with Image Processing.
+2. Data Preparation Teams struggling with available tools for classification problems
+<b>Purpose</b> 
+To improve data preparation process by facilitating users to create numeric records for their image dataset, easing the implementation of machine learning pipelines.
+
+
+![Dataset Creator Pipeline](https://user-images.githubusercontent.com/76547274/217722787-af233d16-bbd8-49e5-8052-d77f6d4d6baf.png)
+<a href="https://lucid.app/lucidchart/b19b8d4d-4efc-45f4-b7a3-8f7e72f14d95/edit?viewport_loc=120%2C232%2C1480%2C649%2C0_0&invitationId=inv_7c589936-9b7f-48c1-b3eb-2fca17679ccd"> Check it out</a>
 
 ### Project Timeline:
 1. Create Streamlit app and <b>Image to landmarks to CSV Record</b>.
@@ -17,4 +24,4 @@ Using Streamlit app to create an Image dataset from video feed.
 3. <code>(venv)</code> will appear before the directory.
 4. Run <code>streamlit run main.py</code>.
 5. Create you own CSV with the app.
-6. Mail the csv file to <emp>kushagrathisside@gmail.com</emp>.
+6. Mail the csv file to <a href="mailto:kushagrathisside@gmail.com">kushagrathisside@gmail.com</a>.
