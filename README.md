@@ -18,6 +18,28 @@ To improve data preparation process by facilitating users to create numeric reco
 2. Add Live Image Capture feature and make record addition easy.
 3. Add Live Video Capture feature and add records from it. <i>(Under Construction)</i>
 
+## Instructions to run
+
+* Pre-requisites:
+	-  The user must be familiar to data preparation methods and file formats
+	-  < add pre-requisite >
+
+* Directions to setup/install
+```bash
+< insert code >
+```
+
+* Directions to execute
+
+```bash
+< insert code >
+```
+
+<br>
+
+## Contributors
+
+* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
 
 ### Code to Run
 1. Download the project folder/Clone the Repository.
