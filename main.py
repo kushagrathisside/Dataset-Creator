@@ -137,7 +137,7 @@ def image_filter(input_image):
 def page_configurations():
     st.set_page_config(page_title="Dataset Creator", page_icon=":tada:", layout="wide", initial_sidebar_state="auto", menu_items={"Get Help":"https://github.com/kushagrathisside/Dataset-Creator","About":"https://www.linkedin.com/in/kushagrathisside"})
 
-
+'''
 def live_cv(class_name:str):
     cap = cv2.VideoCapture(0)
 # Initiate holistic model
@@ -215,7 +215,7 @@ def live_cv(class_name:str):
     cap.release()
     cv2.destroyAllWindows()
 
-
+'''
 @st.cache
 def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
