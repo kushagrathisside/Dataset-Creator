@@ -21,27 +21,29 @@ To improve data preparation process by facilitating users to create numeric reco
 ## Instructions to run
 
 * Pre-requisites:
-	-  The user must be familiar to data preparation methods and file formats
-	-  < add pre-requisite >
+	-  The user must be familiar to data preparation methods and file formats.
+	-  Must have an IDE Installed(VSCode or PyCharm)
+	-  Basic knowledge of commands for using terminal
 
 * Directions to setup/install
 ```bash
-< insert code >
+>> virtualenv venv
+>> venv/scripts/activate
 ```
 
 * Directions to execute
 
 ```bash
-< insert code >
+>> streamlit run main.py
 ```
 
 <br>
 
 ## Contributors
 
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
+* [ KUSHAGRA SRIVASTAVA ](www.github.com/kushagrathisside)
 
-### Code to Run
+### Steps for beginners/non-ml students
 1. Download the project folder/Clone the Repository.
 2. Open Terminal and run <code>venv/scripts/activate</code>.
 3. <code>(venv)</code> will appear before the directory.
