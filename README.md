@@ -1,11 +1,12 @@
 # Dataset-Creator
-Application for creating numeric datasets from Images using holistic model of Mediapipe by saving landmark details in records. This WebApp can be used by ml researchers who are working majorly on facial landmarks and want to generate simple csv file directly.
+Application for creating numeric datasets from Images using holistic model of Mediapipe by saving landmark details in records. This WebApp can be used by ML researchers who are working majorly on facial landmarks and want to generate simple csv file directly.
 
 ### Project Information:
 <b>Target Audience:</b> 
 1. Deep Learning practioners and researchers working with Image Processing.
-2. Data Preparation Teams struggling with available tools for classification problems
-<b>Purpose</b> 
+2. Data Preparation Teams struggling with available tools for classification problems.
+
+<b>Purpose: </b> 
 To improve data preparation process by facilitating users to create numeric records for their image dataset, easing the implementation of machine learning pipelines.
 
 
